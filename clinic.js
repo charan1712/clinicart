@@ -1,4 +1,4 @@
-var imageArr = ["../Asset/images/doctor1.jpg","../Asset/images/doctor2.jpg"];
+var imageArr = ["./Asset/images/doctor1.jpg","./Asset/images/doctor2.jpg"];
 console.log(imageArr)
 var num=0;
 function inc(){
