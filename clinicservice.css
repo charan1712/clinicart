@@ -147,7 +147,7 @@ li:hover{
 #docimage{
     width: 100%;
     height:120vh;
-    background-image: url(../Asset/images/doctor1.jpg);
+    background-image: url(./Asset/images/doctor1.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     filter: brightness(40%);
@@ -223,7 +223,7 @@ li:hover{
     height:50vh;
     position: absolute;
     top: 10%;
-    background-image: url(../Asset/images/doctor1.jpg);
+    background-image: url(./Asset/images/doctor1.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
     filter: brightness(50%);
@@ -296,7 +296,7 @@ li:hover{
 #servicing1{
     width: 100%;
     height: 100%;
-    background-image: url(../Asset/images/service-1.jpg);
+    background-image: url(./Asset/images/service-1.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     transition: all 0.5s;
@@ -360,7 +360,7 @@ li:hover{
 #servicing2{
     width: 100%;
     height: 100%;
-    background-image: url(../Asset/images/service-2.jpg);
+    background-image: url(./Asset/images/service-2.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     transition: all 0.5s;
@@ -392,7 +392,7 @@ li:hover{
 #servicing3{
     width: 100%;
     height: 100%;
-    background-image: url(../Asset/images/service-3.jpg);
+    background-image: url(./Asset/images/service-3.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     transition: all 0.5s;
@@ -432,7 +432,7 @@ li:hover{
 #servicing4{
     width: 100%;
     height: 100%;
-    background-image: url(../Asset/images/service-4.jpg);
+    background-image: url(./Asset/images/service-4.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     transition: all 0.5s;
@@ -477,7 +477,7 @@ li:hover{
 #servicing5{
     width: 100%;
     height: 100%;
-    background-image: url(../Asset/images/service-5.jpg);
+    background-image: url(./Asset/images/service-5.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     transition: all 0.5s;
@@ -509,7 +509,7 @@ li:hover{
 #servicing6{
     width: 100%;
     height: 100%;
-    background-image: url(../Asset/images/service-6.jpg);
+    background-image: url(./Asset/images/service-6.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     transition: all 0.5s;
