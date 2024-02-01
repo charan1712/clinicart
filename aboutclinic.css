@@ -147,7 +147,7 @@ li:hover{
 #docimage{
     width: 100%;
     height:120vh;
-    background-image: url(../Asset/images/doctor1.jpg);
+    background-image: url(./Asset/images/doctor1.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     filter: brightness(40%);
@@ -223,7 +223,7 @@ li:hover{
     height:50vh;
     position: absolute;
     top: 10%;
-    background-image: url(../Asset/images/doctor1.jpg);
+    background-image: url(./Asset/images/doctor1.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
     filter: brightness(50%);
@@ -263,7 +263,7 @@ li:hover{
 #leftimg{
     width: 40%;
     height: 65vh;
-    background-image: url(../Asset/images/doctor3.jpg);
+    background-image: url(./Asset/images/doctor3.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     position: relative;
@@ -325,7 +325,7 @@ li:hover{
 #doctor4{
     width: 50%;
     height: 100%;
-    background-image: url(../Asset/images/doctor4.jpg);
+    background-image: url(./Asset/images/doctor4.jpg);
 }
 #outfeature{
     position: relative;
@@ -433,13 +433,13 @@ li:hover{
     transition: all 0.5s ;
 }
 #team2{
-    background-image: url(../Asset/images/team-2.jpg);
+    background-image: url(./Asset/images/team-2.jpg);
 }
 #team3{
-    background-image: url(../Asset/images/team-3.jpg);
+    background-image: url(./Asset/images/team-3.jpg);
 }
 #team4{
-    background-image: url(../Asset/images/team-4.jpg);
+    background-image: url(./Asset/images/team-4.jpg);
 }
 .teamname{
     font-size: 20px;
