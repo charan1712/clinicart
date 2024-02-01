@@ -428,7 +428,7 @@ li:hover{
 #team1,#team2,#team3,#team4{
     width: 100%;
     height: 100%;
-    background-image: url(../Asset/images/team-1.jpg);
+    background-image: url(./Asset/images/team-1.jpg);
     background-size: 100% 100%;
     transition: all 0.5s ;
 }
