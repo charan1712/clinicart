@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+    <link rel="stylesheet" href="./slot.css">
+</head>
+<body>
+    <div id="container">
+		<div id="slotform">
+			<div>
+				<h2 id="head">Doctors Appointment Form</h2>
+                <h2 id="patientinfo">Patient information</h2>
+			</div>
+			<div id="pname">
+				<h3 class="patname">Patient Name</h3>
+                <input class="patname"type="text" placeholder="Enter First Name">
+                <input class="patname"type="text" placeholder="Enter Last Name">
+			</div>
+            <div id="gen">
+                <label>Gender</label><br>
+                <input type="radio" class="gendata" name="gender"><label class="gendata">Male</label>
+                <input type="radio" class="gendata" name="gender"><label class="gendata">Female</label>
+            </div>
+            <div id="dob">
+                <label>Date of Birth</label><br>
+                <input type="date" id="selectdob">
+            </div>
+            <div id="mail">
+                <label>Email</label><br>
+                <input type="email" placeholder="Enter Email">
+            </div>
+            <div id="phone">
+                <label>Phone</label><br>
+                <input type="tel" placeholder="Enter mobilr no">
+            </div>
+            <div id="address">
+                <label>Address</label><br>
+                <textarea class="tarea" rows="6"></textarea>
+            </div>
+            <div id="visit">
+                <label>Is this first visit to this office</label><br>
+                <input type="radio"><label>Yes</label>
+                <input type="radio"><label>No</label>
+            </div>
+            <div id="appointmentdetails">
+                <h3>Appointment Details</h3>
+            </div>
+            <div id="prefdoc">
+                <label>Preferred Doctor</label><br>
+                <input type="text" placeholder="Enter Doctor Name">
+            </div>
+            <div id="purpose">
+                <label>Purpose of Appointment</label><br>
+                <textarea class="tarea" rows="6"></textarea>
+            </div>
+            <input type="submit" id="sub">
+		</div>
+	</div>
+</body>
+</html>
