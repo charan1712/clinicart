@@ -261,7 +261,7 @@ li:hover{
 #leftimg{
     width: 40%;
     height: 65vh;
-    background-image: url(../Asset/images/doctor3.jpg);
+    background-image: url(./Asset/images/doctor3.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     position: relative;
@@ -488,7 +488,7 @@ li:hover{
 #servicing1{
     width: 100%;
     height: 100%;
-    background-image: url(../Asset/images/service-1.jpg);
+    background-image: url(./Asset/images/service-1.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     transition: all 0.5s;
@@ -552,7 +552,7 @@ li:hover{
 #servicing2{
     width: 100%;
     height: 100%;
-    background-image: url(../Asset/images/service-2.jpg);
+    background-image: url(./Asset/images/service-2.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     transition: all 0.5s;
@@ -584,7 +584,7 @@ li:hover{
 #servicing3{
     width: 100%;
     height: 100%;
-    background-image: url(../Asset/images/service-3.jpg);
+    background-image: url(./Asset/images/service-3.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     transition: all 0.5s;
@@ -624,7 +624,7 @@ li:hover{
 #servicing4{
     width: 100%;
     height: 100%;
-    background-image: url(../Asset/images/service-4.jpg);
+    background-image: url(./Asset/images/service-4.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     transition: all 0.5s;
@@ -669,7 +669,7 @@ li:hover{
 #servicing5{
     width: 100%;
     height: 100%;
-    background-image: url(../Asset/images/service-5.jpg);
+    background-image: url(./Asset/images/service-5.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     transition: all 0.5s;
@@ -701,7 +701,7 @@ li:hover{
 #servicing6{
     width: 100%;
     height: 100%;
-    background-image: url(../Asset/images/service-6.jpg);
+    background-image: url(./Asset/images/service-6.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     transition: all 0.5s;
@@ -730,7 +730,7 @@ li:hover{
 #doctor4{
     width: 50%;
     height: 100%;
-    background-image: url(../Asset/images/doctor4.jpg);
+    background-image: url(./Asset/images/doctor4.jpg);
 }
 #outfeature{
     position: relative;
@@ -1069,18 +1069,18 @@ li:hover{
 #team1,#team2,#team3,#team4{
     width: 100%;
     height: 100%;
-    background-image: url(../Asset/images/team-1.jpg);
+    background-image: url(./Asset/images/team-1.jpg);
     background-size: 100% 100%;
     transition: all 0.5s ;
 }
 #team2{
-    background-image: url(../Asset/images/team-2.jpg);
+    background-image: url(./Asset/images/team-2.jpg);
 }
 #team3{
-    background-image: url(../Asset/images/team-3.jpg);
+    background-image: url(./Asset/images/team-3.jpg);
 }
 #team4{
-    background-image: url(../Asset/images/team-4.jpg);
+    background-image: url(./Asset/images/team-4.jpg);
 }
 .teamname{
     font-size: 20px;
