@@ -731,6 +731,8 @@ li:hover{
     width: 50%;
     height: 100%;
     background-image: url(./Asset/images/doctor4.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
 }
 #outfeature{
     position: relative;
